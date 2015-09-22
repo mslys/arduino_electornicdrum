@@ -1,4 +1,7 @@
-/*Arduino-Drum by Michal Slys*/
+/*
+Arduino-Drum by Michal Slys
+Project's decription can be found here: http://arduinodrumkit.blogspot.com/
+*/
 
 #include <MIDI.h> 
 MIDI_CREATE_DEFAULT_INSTANCE();
