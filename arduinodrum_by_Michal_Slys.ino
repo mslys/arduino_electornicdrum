@@ -1,5 +1,5 @@
 /*
-Arduino-Drum by Michal Slys
+Arduino-Drum 
 Project's decription can be found here: http://arduinodrumkit.blogspot.com/
 */
 
