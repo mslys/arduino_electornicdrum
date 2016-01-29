@@ -1,4 +1,4 @@
-# arduino_electornicdrum_by_Michal_Slys
+# arduino_electornicdrum
 Code for home made electronic drum-kit, based on Arduino UNO.
 
 You can find report on the entire project here:
@@ -9,4 +9,4 @@ https://www.youtube.com/watch?v=HyQeXVOYZH8&feature
 
 enjoy,
 
-Michal Slys
+mslys
